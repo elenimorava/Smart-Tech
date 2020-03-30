@@ -1,1 +1,13 @@
+*
+{
+  margin: 0;
+  padding 0;
+}
 
+#nev-bar
+{
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  
+}
