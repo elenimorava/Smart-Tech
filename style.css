@@ -1,20 +1,39 @@
 *
 {
   margin: 0;
-  padding 0;
+  padding: 0;
 }
 
-#nev-bar
+#nav-bar
 {
   position: sticky;
   top: 0;
   z-index: 10;
-  
 }
-.navbar-brand "0.png"
+
+.navbar-brand img
 {
-  height: 40 px;
-  padding-left: 30 px;
-  
-  
+  height: 40px;
+  padding-left: 30px;
 }
+
+.navbar-nav li
+{ 
+  padding: 0 10px;
+}
+
+.navbar-nav li a
+{ 
+  float: right;
+  text-align: left;
+}
+
+#nav-bar ul li a:hover{
+  color: #007bff!important
+}
+.nevbar
+{
+  background: #fff;
+}
+
+
