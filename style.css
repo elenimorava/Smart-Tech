@@ -31,11 +31,11 @@
 #nav-bar ul li a:hover{
   color: #007bff!important
 }
-.nevbar
+.navbar
 {
   background: #fff;
 }
-.nevbar-toggler
+.navbar-toggler
 {
   border: none!important;
 }
