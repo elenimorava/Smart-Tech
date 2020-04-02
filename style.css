@@ -174,3 +174,10 @@ h1::after
   filter: grayscale(0);
   cursor: pointer;
 }
+.profile-pic h2
+{
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 15px;
+  color: #007bff !important;
+}
