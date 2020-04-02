@@ -181,3 +181,9 @@ h1::after
   margin-top: 15px;
   color: #007bff !important;
 }
+.technology .col-md-3:hover{
+  background: #007bff;
+  cursor: pointer;
+  transition: 0.7s;
+  
+}
