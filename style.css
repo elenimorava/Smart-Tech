@@ -155,22 +155,3 @@ h1::after
   width: 170px;
   margin: 20px auto 5px;
 }
-.profile-pic
-{
-  margin-top: 25px;
-  height: 4px;
-  width: 4px;
-  
-}
-
-.profile-pic .img-box
-{
-  opacity: 1;
-  display: block;
-  position: relative;
-  
-}
-
-
-
-
