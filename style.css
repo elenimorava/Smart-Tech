@@ -165,10 +165,7 @@ h1::after
   display: block;
   position: relative;
 }
-.profile-pic .img-box img
-{
-  filter: grayscale(1);
-}
+
 .profile-pic .img-box img:hover
 {
   filter: grayscale(0);
@@ -181,9 +178,5 @@ h1::after
   margin-top: 15px;
   color: #007bff !important;
 }
-.technology .col-md-3:hover{
-  background: #007bff;
-  cursor: pointer;
-  transition: 0.7s;
-  
-}
+
+
