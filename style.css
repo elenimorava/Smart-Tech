@@ -134,7 +134,64 @@
   cursor: pointer;
   transition: 0.7s;
   
+  
 }
+
+#technology
+{
+  padding: 40px 0;
+  background: #efefef;
+}
+.single-price
+{
+  margin: 10px auto;
+  display: inline;
+  float: left;
+  width: 100%;
+  background-color: #fff;
+  transition: 0.5s;
+}
+.single-price:hover
+{
+  box-shadow: 0 2px 20px #333;
+}
+.price-head
+{
+  background-color: #2196f3;
+  display: inline;
+  float: left;
+  padding: 10px 5px;
+  text-align: center;
+  width:100%;
+}
+.price-head h2
+{
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  padding: 5px;
+  text-transform: uppercase;
+}
+.price-content
+{
+  display: inline;
+  float: left;
+  width: 100%;
+  padding: 0 15px;
+  
+}
+.price-content ul li
+{
+  border-bottom: 1px solid #efefef;
+  padding: 15px 10px;
+  list-style: none;
+  
+    
+}
+
+
+
 
 h1
 {
