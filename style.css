@@ -242,3 +242,52 @@ h1::after
   padding: 10px;
   margin: 15px;
 }
+
+#blog
+{
+  background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(images-3.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #efefef !important;
+  background-attachment: fixed;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+   
+
+#blog h1
+{
+  text-align: center;
+  color: #efefef !important;
+  padding-bottom: 10px;
+}
+
+.blog
+{
+  margin-top: 40px;
+}
+.icon
+{
+  font-size: 40px;
+  margin: 20px auto;
+  padding: 20px;
+  height: 80px;
+  width: 80px;
+  border: 1px solid #fff;
+  border-radius: 50%;
+}
+#blog p
+{
+  font-size: 14px;
+  margin-top: 20px;
+  color: #ccc;
+}
+.blog .col-md-3:hover{
+  background: #007bff;
+  cursor: pointer;
+  transition: 0.7s;
+  
+  
+}
+
+
