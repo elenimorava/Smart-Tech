@@ -135,12 +135,7 @@
   transition: 0.7s;
   
 }
-#team
-{
-  padding-top: 50px;
-  padding-bottom: 50px;
-  color: #555;
-}
+
 h1
 {
   text-align: center;
@@ -156,30 +151,11 @@ h1::after
   width: 170px;
   margin: 20px auto 5px;
 }
-.profile-pic 
-{
-  margin-top: 25px;
 
-}
-.profile-pic .img-box
-{
-  opacity: 1;
-  display: block;
-  position: relative;
-}
 
-.profile-pic .img-box img:hover
-{
-  filter: grayscale(0);
-  cursor: pointer;
-}
-.profile-pic h2
-{
-  font-size: 22px;
-  font-weight: bold;
-  margin-top: 15px;
-  color: #007bff !important;
-}
+
+
+
 #contact
 {
   background: #efefef;
